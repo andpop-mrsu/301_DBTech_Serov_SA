@@ -1,0 +1,19 @@
+Версия SQLite: 3.51.0
+
+
+Режимы вывода:
+ascii
+box
+csv
+column
+html
+insert
+json
+line
+list
+markdown
+qbox
+quote
+table
+tabs
+tcl
